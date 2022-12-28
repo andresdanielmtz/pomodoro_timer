@@ -15,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8478CD94295CB0C8005C7FE0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		84803EEE294D61200088BC09 /* pomodoro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pomodoro.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84803EF1294D61200088BC09 /* pomodoroApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pomodoroApp.swift; sourceTree = "<group>"; };
 		84803EF3294D61200088BC09 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -37,6 +38,7 @@
 		84803EE5294D61200088BC09 = {
 			isa = PBXGroup;
 			children = (
+				8478CD94295CB0C8005C7FE0 /* README.md */,
 				84803EF0294D61200088BC09 /* pomodoro */,
 				84803EEF294D61200088BC09 /* Products */,
 			);
